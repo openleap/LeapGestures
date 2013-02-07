@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeapGestures", "LeapGestures\LeapGestures.csproj", "{B4A30DB3-097E-475D-B8C4-B7EB63A1B60A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GesturesTest", "GesturesTest\GesturesTest.csproj", "{CB5BACC9-CCFA-40B9-8D4A-F4AE167A78D5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeapGesturesDemo", "LeapGesturesDemo\LeapGesturesDemo.csproj", "{4D0C255B-C693-481F-B064-302FA31BBB83}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B4A30DB3-097E-475D-B8C4-B7EB63A1B60A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4A30DB3-097E-475D-B8C4-B7EB63A1B60A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4A30DB3-097E-475D-B8C4-B7EB63A1B60A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4A30DB3-097E-475D-B8C4-B7EB63A1B60A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CB5BACC9-CCFA-40B9-8D4A-F4AE167A78D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CB5BACC9-CCFA-40B9-8D4A-F4AE167A78D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CB5BACC9-CCFA-40B9-8D4A-F4AE167A78D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CB5BACC9-CCFA-40B9-8D4A-F4AE167A78D5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4D0C255B-C693-481F-B064-302FA31BBB83}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D0C255B-C693-481F-B064-302FA31BBB83}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D0C255B-C693-481F-B064-302FA31BBB83}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D0C255B-C693-481F-B064-302FA31BBB83}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
